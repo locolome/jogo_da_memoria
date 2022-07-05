@@ -1,0 +1,10 @@
+C:\Users\Aluno\Desktop\a projetos senac\jogo_da_memoria_def\jogo_da_memoria_def\bin\Debug\jogo_da_memoria_def.exe.config
+C:\Users\Aluno\Desktop\a projetos senac\jogo_da_memoria_def\jogo_da_memoria_def\bin\Debug\jogo_da_memoria_def.exe
+C:\Users\Aluno\Desktop\a projetos senac\jogo_da_memoria_def\jogo_da_memoria_def\bin\Debug\jogo_da_memoria_def.pdb
+C:\Users\Aluno\Desktop\a projetos senac\jogo_da_memoria_def\jogo_da_memoria_def\obj\Debug\jogo_da_memoria_def.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\a projetos senac\jogo_da_memoria_def\jogo_da_memoria_def\obj\Debug\jogo_da_memoria_def.Form1.resources
+C:\Users\Aluno\Desktop\a projetos senac\jogo_da_memoria_def\jogo_da_memoria_def\obj\Debug\jogo_da_memoria_def.Properties.Resources.resources
+C:\Users\Aluno\Desktop\a projetos senac\jogo_da_memoria_def\jogo_da_memoria_def\obj\Debug\jogo_da_memoria_def.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\a projetos senac\jogo_da_memoria_def\jogo_da_memoria_def\obj\Debug\jogo_da_memoria_def.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\a projetos senac\jogo_da_memoria_def\jogo_da_memoria_def\obj\Debug\jogo_da_memoria_def.exe
+C:\Users\Aluno\Desktop\a projetos senac\jogo_da_memoria_def\jogo_da_memoria_def\obj\Debug\jogo_da_memoria_def.pdb
